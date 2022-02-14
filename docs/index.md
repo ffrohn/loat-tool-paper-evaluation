@@ -11,7 +11,7 @@
 
     <p>
       This is the empirical evaluation of the paper <a href="https://arxiv.org/abs/2202.04546"><i>Proving Non-Termination and Lower Runtime Bounds with LoAT</i></a>.
-      You can find the source code for our tool LoAT at <a href="https://github.com/aprove-developers/LoAT">GitHub</a>.
+      You can find the source code for our tool LoAT at <a href="https://github.com/aprove-developers/LoAT/tree/tool-paper2">GitHub</a>.
     </p>
 
     <p>Moreover, we refer to the <a href="https://aprove-developers.github.io/LoAT/">general LoAT website</a> for further information.</p>
