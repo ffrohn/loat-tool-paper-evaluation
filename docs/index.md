@@ -14,6 +14,8 @@
       You can find the source code for our tool LoAT at <a href="https://github.com/aprove-developers/LoAT">GitHub</a>.
     </p>
 
+    <p>Moreover, we refer to the <a href="https://aprove-developers.github.io/LoAT/">general LoAT website</a> for further information.</p>
+
     <h1>Running LoAT</h1>
 
     We provide a <a href="loat-static">pre-compiled binary of LoAT (Linux, 64 bit)</a>.
