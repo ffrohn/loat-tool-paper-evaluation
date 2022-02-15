@@ -49,7 +49,7 @@
     We provide StarExec bundles for all tools used in our evaluation.
 
     <ul>
-      <li><a href="https://www.starexec.org/starexec/secure/details/solver.jsp?id=35527">LoAT '22</a>, configuration <code>nonterm_proofout</code> or <code>cpx_proofout</code>, respectively</li>
+      <li><a href="https://www.starexec.org/starexec/secure/details/solver.jsp?id=35558">LoAT '22</a>, configuration <code>loat_nonterm_proofout</code> or <code>loat_cpx_proofout</code>, respectively</li>
       <li><a href="https://www.starexec.org/starexec/secure/details/solver.jsp?anonId=5950ad6e-cebd-45fa-9f23-cfeb7d906648">LoAT '19</a>, configuration <code>proofout</code></li>
       <li><a href="https://www.starexec.org/starexec/secure/details/solver.jsp?anonId=93e878e6-5c5e-4a6e-b0e7-6ebd11d75376">LoAT '20</a>, configuration <code>proofout</code></li>
       <li><a href="https://www.starexec.org/starexec/secure/details/solver.jsp?anonId=788f0245-548d-4148-b840-50df112c3f8f">iRankFinder</a>, configuration <code>competition</code></li>
